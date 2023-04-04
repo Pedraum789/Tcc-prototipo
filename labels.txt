@@ -1,0 +1,5 @@
+buraco
+bueiro
+car
+moto
+traffic

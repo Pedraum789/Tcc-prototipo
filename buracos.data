@@ -1,0 +1,6 @@
+classes= 5
+train  = /home/pedro/Desktop/FEI - 7 SEM/TCC - prototipo/prototipo/train.txt
+valid  = /home/pedro/Desktop/FEI - 7 SEM/TCC - prototipo/prototipo/test.txt
+names = /home/pedro/Desktop/FEI - 7 SEM/TCC - prototipo/prototipo/labels.txt
+backup = /home/pedro/Desktop/FEI - 7 SEM/TCC - prototipo/backup/
+
